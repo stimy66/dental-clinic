@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Photo placeholder 1">
-  <rect width="100%" height="100%" fill="#f7fbff"/>
-  <rect x="24" y="24" width="752" height="552" rx="12" fill="#eaf6ff" stroke="#d1eaff"/>
-  <text x="400" y="320" font-family="Tahoma, Arial, sans-serif" font-size="22" text-anchor="middle" fill="#0b63d6">Clinic photo placeholder 1</text>
-  <text x="400" y="350" font-family="Tahoma, Arial, sans-serif" font-size="14" text-anchor="middle" fill="#6b7280">Use Unsplash/Pexels image, name as assets/photo-1.jpg</text>
-</svg>
